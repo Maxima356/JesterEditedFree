@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.2.5] - 2025-12-21
+
+### Changed
+- Randomization is now Seed-based (multiplayer synced). Audio files are loaded on-the-fly when a Jester spawns, no longer requiring a game restart to change the variant.
+- Code optimization
+- Updated Readme, Changelog, Dependencies
+
+### Added
+- Custom Jester sounds:
+  - Solo 3: Arabian Psycho
+
 ## [1.2.0] - 2025-11-29
 
 ### Changed
