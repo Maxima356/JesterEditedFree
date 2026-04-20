@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0] - 2026-04-20
+
+### Changed
+
+- Updated Readme, Dependencies
+- Support V81
+
 ## [1.2.5] - 2025-12-21
 
 ### Changed
